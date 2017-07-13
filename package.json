@@ -1,0 +1,24 @@
+{
+  "name": "shadowaudio",
+  "version": "1.0.0",
+  "description": "Uses NVIDIA Shadowplay to get the last X seconds of audio, mostly for jokes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patthekenny/ShadowAudio.git"
+  },
+  "author": "Patrick Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patthekenny/ShadowAudio/issues"
+  },
+  "homepage": "https://github.com/patthekenny/ShadowAudio#readme",
+  "dependencies": {
+    "recursive-readdir": "^2.2.1",
+    "underscore": "^1.8.3",
+    "username": "^3.0.0"
+  }
+}
